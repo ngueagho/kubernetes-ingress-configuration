@@ -1,6 +1,6 @@
 apiVersion: apps/v1
-
-spec:kind: Deployment
+kind: Deployment
+spec:
 metadata:
   name: mon-application
   template:
